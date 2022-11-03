@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_text">60sp</dimen>
+    <dimen name="button_text">25sp</dimen>
+    <dimen name="button_height">80dp</dimen>
+    <dimen name="action_button_text">35sp</dimen>
+    <dimen name="keyboard_margin_bottom">10dp</dimen>
+    <dimen name="screen_margin">15dp</dimen>
+</resources>
